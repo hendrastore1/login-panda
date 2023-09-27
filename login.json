@@ -1,10 +1,6 @@
 {
-  "aing_01": {
-   "password": "$2y$12$LjNFgfG1TXLIX08GbWZRgOkm54SF8/6EW.ptO0MC.ey.X.T9XSJUO",
-   "expiry": "28-09-2023 12:00 PM"
-  }
-  "aing_02": {
-   "password": "$2y$12$WE9WmTm63GfSFTGMZC6zXuD0QDdRoF6gOKD.AFo8n55qYLdifZ0KK",
+  "aing_1234": {
+   "password": "$2y$12$/A7t/Kwf9cw518KWc43R/uONyROo73plxkxEO1/es81Zuc/3vcgS6",
    "expiry": "28-09-2023 12:00 PM"
 }
 }
